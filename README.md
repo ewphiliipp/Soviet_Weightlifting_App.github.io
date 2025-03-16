@@ -21,27 +21,23 @@ Specifically built for the needs of ambitious (and humorous) athletes – curren
 
 ## 🖼️ Screenshots
 
-**Startfenster**
-_Beschreibung: Auswahl zur Erstellung oder zum Laden eines Programms_
+**Opening window**
 
 ![image](https://github.com/user-attachments/assets/edc83622-e9f7-4715-ba9a-63816cf17185)
 
 
-**Programmgenerator**
-_Beschreibung: Eingabe der Trainingsdaten und Erstellung eines personalisierten Plans_
+**Program generator**
 
 ![image](https://github.com/user-attachments/assets/3d4b8c52-0fd7-45d7-97eb-ef4d042f002c)
 
 
 
-**Trainingsanzeige**
-_Beschreibung: Anzeige des aktuellen Trainingstags inkl. Trainingsvariablen_
+**Trainings day display**
 
 ![image](https://github.com/user-attachments/assets/cbeb79cb-a4b3-4e3c-a105-31f74588262f)
 
 
 **Recordboard**
-_Beschreibung: Historie der persönlichen Bestleistungen inkl. grafischer Darstellung_
 
 ![image](https://github.com/user-attachments/assets/c055b458-f1db-4f13-b24e-72dc5cf3060f)
 
